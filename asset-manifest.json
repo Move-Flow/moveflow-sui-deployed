@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.092cc4d5.css",
-    "main.js": "/static/js/main.f529b1c5.js",
+    "main.js": "/static/js/main.b2806368.js",
     "static/media/exchange.svg": "/static/media/exchange.c294b25955a93779997c5a7599120717.svg",
     "static/media/setting.svg": "/static/media/setting.0966a831b253081930d92fb5d0b892a1.svg",
     "static/media/walletConnected.svg": "/static/media/walletConnected.129f29ce03a3c546308bd69eb3c9f640.svg",
@@ -41,6 +41,6 @@
   },
   "entrypoints": [
     "static/css/main.092cc4d5.css",
-    "static/js/main.f529b1c5.js"
+    "static/js/main.b2806368.js"
   ]
 }
