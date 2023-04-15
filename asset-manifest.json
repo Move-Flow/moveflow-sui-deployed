@@ -1,11 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.ebce91fd.css",
-    "main.js": "/static/js/main.8f6e6b03.js",
-    "static/media/sui.png": "/static/media/sui.eb073d667bb1e912eb81.png",
+    "main.css": "/static/css/main.4ab23eb2.css",
+    "main.js": "/static/js/main.a4761b09.js",
+    "static/js/945.d3aff013.chunk.js": "/static/js/945.d3aff013.chunk.js",
+    "static/media/stream.png": "/static/media/stream.f826ee196da45a0e173d.png",
+    "static/media/Troy.png": "/static/media/Troy.0a079241e67ad65a8fcd.png",
+    "static/media/dashboard.png": "/static/media/dashboard.ce72ac1ffb41096240a3.png",
+    "static/media/outgoing.png": "/static/media/outgoing.c2ea37a040f52022cc0d.png",
+    "static/media/noncegeek.png": "/static/media/noncegeek.bafa70296c44670d2e61.png",
+    "static/media/Bob.png": "/static/media/Bob.2c8c44582ad0830149ae.png",
+    "static/media/logo707.svg": "/static/media/logo707.c898752ec53e02ea560bbfadd06d920f.svg",
+    "static/media/antalphalogo.svg": "/static/media/antalphalogo.7954804dd112b798935ac1873521fc6a.svg",
+    "static/media/sui.png": "/static/media/sui.07c4b6b1d0aa859f389d.png",
+    "static/media/zonff_logo.svg": "/static/media/zonff_logo.7de0029b109d7274856a125f1630e603.svg",
     "static/media/exchange.svg": "/static/media/exchange.c294b25955a93779997c5a7599120717.svg",
+    "static/media/antalphalabs_titles.svg": "/static/media/antalphalabs_titles.9696d653b3c5743234751f04d3dd2922.svg",
     "static/media/setting.svg": "/static/media/setting.0966a831b253081930d92fb5d0b892a1.svg",
     "static/media/walletConnected.svg": "/static/media/walletConnected.129f29ce03a3c546308bd69eb3c9f640.svg",
+    "static/media/aptos_logo.svg": "/static/media/aptos_logo.78c199f07f0e2cd00b2c94c5c2b47640.svg",
     "static/media/walletNotConnected.svg": "/static/media/walletNotConnected.676e937cf69e33f37c90dd5fb336f371.svg",
     "static/media/docs.svg": "/static/media/docs.4c1b7e8c3c7b86edaf74324d2bab8020.svg",
     "static/media/discord.svg": "/static/media/discord.ec1b3f5193e6d4bee01cb4b97cab3023.svg",
@@ -41,7 +53,7 @@
     "static/media/plus-sm.svg": "/static/media/plus-sm.2a7a5991314ff9c5c48e463367c452ec.svg"
   },
   "entrypoints": [
-    "static/css/main.ebce91fd.css",
-    "static/js/main.8f6e6b03.js"
+    "static/css/main.4ab23eb2.css",
+    "static/js/main.a4761b09.js"
   ]
 }
