@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.bad4dc11.css",
-    "main.js": "/static/js/main.6354e718.js",
+    "main.js": "/static/js/main.9bc1fd5c.js",
     "static/js/945.d3aff013.chunk.js": "/static/js/945.d3aff013.chunk.js",
     "static/media/Troy.png": "/static/media/Troy.0a079241e67ad65a8fcd.png",
     "static/media/Bob.png": "/static/media/Bob.2c8c44582ad0830149ae.png",
@@ -45,6 +45,6 @@
   },
   "entrypoints": [
     "static/css/main.bad4dc11.css",
-    "static/js/main.6354e718.js"
+    "static/js/main.9bc1fd5c.js"
   ]
 }
